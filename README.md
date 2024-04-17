@@ -1,4 +1,4 @@
-# This repository contains the deployment of a Spring Boot Application on EKS using Jenkins, Helm, Docker, and Amazon ECR.
+# This repository contains the deployment of a Spring Boot Application on EKS using Jenkins, Helm, Docker, Amazon ECR and AWS EKS.
 
 ![CICD-2024](CICD-2024.jpg)
 
