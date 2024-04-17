@@ -1,5 +1,7 @@
 # This repository contains the deployment of a Spring Boot Application on EKS using Jenkins, Helm, Docker, and Amazon ECR.
 
+![CICD-2024](CICD-2024.jpg)
+
 ## Prerequisites
 
 Ensure you have the following prerequisites set up before proceeding with the deployment:
